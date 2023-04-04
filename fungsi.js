@@ -9,3 +9,6 @@ console.log(multiplayNumber(10, 3));
 
 const divide = (a, b) => a / b;
 console.log(divide(10, 2));
+
+console.log(add(5, 5));
+
